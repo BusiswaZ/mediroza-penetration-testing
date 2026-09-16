@@ -1,0 +1,23 @@
+# Confidential assessment data
+*.pdf
+*.sql
+*.db
+*.sqlite
+*.bak
+
+# Passwords and credentials
+passwords.txt
+credentials.txt
+*.env
+
+# Session information
+cookies.txt
+cookies.json
+
+# Temporary files
+*.tmp
+*.log
+
+# Personal/private evidence
+private/
+confidential/
